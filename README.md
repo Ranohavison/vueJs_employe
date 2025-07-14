@@ -51,5 +51,5 @@ Une application web complète de gestion d’employés développée avec **Larav
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-projet.git
-cd ton-projet
+git clone https://github.com/Ranohavison/vueJs_employe
+cd vueJs_employe
